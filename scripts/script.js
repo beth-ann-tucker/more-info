@@ -1,5 +1,4 @@
-$( document ).ready(function() {
-  $(function () {
+ $(function () {
   console.log("ready!");
 
   $("#professionalDiv").hide();
