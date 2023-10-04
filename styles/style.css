@@ -1,3 +1,4 @@
+/*background*/
 body {
   background-image: url('https://static.vecteezy.com/system/resources/thumbnails/016/894/217/small/white-background-white-polished-metal-abstract-white-gradient-background-blurred-white-backdrop-illustration-vector.jpg');
   background-repeat: no-repeat;
@@ -5,17 +6,20 @@ body {
   background-size: cover;
 }
 
+/*navbar design*/
 nav{
   background-color: #40826D;
   opacity: 0.6;
 }
 
+/*toggle options centered and not taking up entire page*/
 #toggleOptions{
   width: 40%;
   margin-left: auto;
   margin-right: auto;
 }
 
+/*Personal text and professional text design*/
 #personalText{
   color: #AFE1AF;
   font-size: 50px;
@@ -93,6 +97,7 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 
+/*card designs*/
 #personalRow1,
 #personalRow2{
   width: 85%;
